@@ -1,0 +1,20 @@
+{
+  "name": "jan24wk8",
+  "version": "1.0.0",
+  "description": "Conditional statement",
+  "main": "aramide.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./Condition.css -o ./styles/function.css --watch"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "tailwind"
+  ],
+  "author": "habeeb",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
